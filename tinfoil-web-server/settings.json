@@ -3,7 +3,7 @@
 	"StripDirectoryNames": true,
 	"ServeEmptyDirectories": false,
 	"AllowedExt": [ "nsp", "nsz", "xci" ],
-	"MessageOfTheDay": "Welcome to my personal Tinfoil Web Server! if you are seeing this, you are probably a friend of mine. If you are not, please leave. but remember, fuck nintendo",
+	"MessageOfTheDay": "Welcome to my personal Tinfoil Web Server! Games are expensive but if we don't but their games they will stop making them too.",
 	"ExtraRepositories": [],
 	"CacheExpiration": {
 	  "Enabled": true,
