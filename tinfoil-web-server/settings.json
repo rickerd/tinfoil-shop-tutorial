@@ -12,6 +12,7 @@
 	"Authentication": {
 	  "Enabled": true,
 	  "WebBrowserAuthEnabled": true,
+	  "PwdType": "Plaintext",
 	  "Users": [
 		{
 		  "Name": "macron",
@@ -19,11 +20,14 @@
 		}
 	  ]
 	},
+	"FingerprintsFilter": {
+	  "Enabled": false
+	},
 	"Blacklist": {
-	  "Enabled": true,
+	  "Enabled": false,
 	  "FilePath": "blacklist.txt",
 	  "MaxConsecutiveFailedAuth": 3,
-	  "IsBehindProxy": true
+	  "IsBehindProxy": false
 	},
 	"Kestrel": {
 	  "Endpoints": {

@@ -4,7 +4,7 @@
 	"prod_keys": "./prod.keys",
 	"folder": "/games",
 	"scan_folders": ["/games"],
-	"gui": false,
+	"gui": true,
 	"debug": false,
 	"check_for_missing_updates": true,
 	"check_for_missing_dlc": true,
